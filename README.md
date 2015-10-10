@@ -1,4 +1,5 @@
 # Zilean Plan（基兰计划）
+![Zilean](http://7xkkiq.com1.z0.glb.clouddn.com/Zilean_TimeMachineSkin.jpg)
 ## 简介
 本页是 Zilean Plan 的主页，任何跟此计划有关的信息都会发布在这里。
 ## 目的
